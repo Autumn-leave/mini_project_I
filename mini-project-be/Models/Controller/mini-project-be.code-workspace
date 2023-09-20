@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "mini-project-be",
+			"path": "../.."
+		},
+		{
+			"name": "views",
+			"path": "../../../../MINI_PROJECT1/Project-be/views"
+		}
+	],
+	"settings": {}
+}
